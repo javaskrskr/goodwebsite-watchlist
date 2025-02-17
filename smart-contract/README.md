@@ -12,3 +12,6 @@
 
 ## Vulnerabilities
 - https://www.quicknode.com/guides/ethereum-development/smart-contracts/common-solidity-vulnerabilities-on-ethereum
+
+## Security 
+- https://medium.com/@erinlim555/securing-solidity-smart-contracts-with-roles-pausable-19b161038816
